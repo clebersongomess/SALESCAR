@@ -1,0 +1,19 @@
+{
+  "name": "salecar",
+  "version": "1.0.0",
+  "description": "LP para venda de carro pessoal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clebersongomess/SALESCAR.git"
+  },
+  "author": "Cléberson Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clebersongomess/SALESCAR/issues"
+  },
+  "homepage": "https://github.com/clebersongomess/SALESCAR#readme"
+}
