@@ -1,5 +1,4 @@
 import React from 'react';
-import Header from './components/Header/Header';
 import Banner from './components/Banner/Banner';
 import Info from './components/Info/Info';
 import Gallery from './components/Gallery/Gallery';
@@ -11,7 +10,6 @@ const App: React.FC = () => {
   return (
     <>
       <div className="container">
-        <Header />
         <Banner />
         <Info />
         <Gallery />

@@ -4,12 +4,7 @@ import styles from './styles.module.scss'
 const Info: React.FC = () => {
     return (
         <>
-            <div className="row">
-                <h2>Overview</h2>
-                <p>This 2023 Sedan XLE is a sleek and stylish vehicle with low mileage and a clean history. It features a powerful engine, comfortable interior, and advanced safety features. Perfect for daily commutes or long road trips.</p>
-            </div>
-
-            <div className="row">
+            <div className={`row ${styles.carousel}`}>
                 <ul>
                     <li>🚗 Monza GL 1994 1.8 EFI – Vermelho Goya 🚗</li>
                     <li>📍 Localização: Arujá - SP</li>

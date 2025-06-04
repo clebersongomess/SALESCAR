@@ -1,0 +1,30 @@
+h2{
+    font-size: 22px;
+    font-weight: 700;
+    color: #000000;
+}
+
+p{
+    font-size: 16px;
+    font-weight: 300;
+    color: #000000;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    li{
+        list-style-type: none;
+        margin: 0;
+        padding: 8px 0;
+        font-size: 13px;
+        font-weight: 300;
+        color: #000000;
+        ul{
+            padding: 0 50px;
+            li{
+                list-style-type: circle;
+            }
+        }   
+    }
+}
